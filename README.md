@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damian Marchewka
-- 👀 I’m interested Python Developer 
+- 👀 I’m interested Python Developer and data science 
 - 🌱 I’m currently learning python as a beginner
 - 💞️ I’m looking to collaborate to learning python and improving my skils. 
 - 📫 How to reach me ...
