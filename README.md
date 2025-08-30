@@ -20,12 +20,6 @@ Here are some of my public repositories:
 
 ---
 
-## 📈 GitHub Stats
-![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianMarchewka&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianMarchewka&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/damian-marchewka)  
 - ✉️ Email: *(tu możesz wpisać, jeśli chcesz podać swój e-mail kontaktowy)*  
