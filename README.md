@@ -15,6 +15,9 @@ I enjoy building projects that help me grow my skills and explore new technologi
 ## 🚀 Featured Projects
 Here are some of my public repositories:
 
+- [**Sales Analizer**](https://github.com/DamianMarchewka/Sales-Analyzer)  
+  🤖 Sales analysis and forecasting system. An application built in Python that analyzes sales data, stores results in an SQL database, and generates reports.
+
 - [**Python Chatbot**](https://github.com/DamianMarchewka/python-botchat)  
   🤖 Simple chatbot built in Python – experimenting with text interaction and logic.
 
