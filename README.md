@@ -25,7 +25,7 @@ Here are some of my public repositories:
 
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/damian-marchewka)  
-- ✉️ Email:
+- ✉️ Email: enki6@o2.pl
 
 ---
 
