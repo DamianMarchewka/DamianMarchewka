@@ -8,7 +8,7 @@ I enjoy building projects that help me grow my skills and explore new technologi
 ## 🔧 Tech Stack
 - **Languages**: Python, SQL, 
 - **Tools**: Git, GitHub, VS Code, PyCharm
-- **Currently learning**: Machine Learning, Chatbots, Algorithms
+- **Currently learning**: Backend, RestAPI, Algorithms
 
 ---
 
@@ -17,9 +17,6 @@ Here are some of my public repositories:
 
 - [**Sales Analizer**](https://github.com/DamianMarchewka/Sales-Analyzer)  
   🤖 Sales analysis and forecasting system. An application built in Python that analyzes sales data, stores results in an SQL database, and generates reports.
-
-- [**Python Chatbot**](https://github.com/DamianMarchewka/python-botchat)  
-  🤖 Simple chatbot built in Python – experimenting with text interaction and logic.
 
 ---
 
