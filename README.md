@@ -18,6 +18,10 @@ Here are some of my public repositories:
 - [**Sales Analizer**](https://github.com/DamianMarchewka/Sales-Analyzer)  
   🤖 Sales analysis and forecasting system. An application built in Python that analyzes sales data, stores results in an SQL database, and generates reports.
 
+- [**Authentication Server**](https://github.com/DamianMarchewka/REST-API)  
+  🤖 Rest API application, built in a microservice architecture, with Python3. fastAPI.
+  
+
 ---
 
 ## 🌍 Let's Connect
