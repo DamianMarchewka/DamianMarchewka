@@ -15,6 +15,9 @@ I enjoy building projects that help me grow my skills and explore new technologi
 ## 🚀 Featured Projects
 Here are some of my public repositories:
 
+- [**Task Manager**](https://github.com/DamianMarchewka/Task-Manager-API)  
+  🤖 A REST API for task management (CRUD) built with FastAPI. An educational project prepared for expansion with authorization (JWT).
+
 - [**Sales Analizer**](https://github.com/DamianMarchewka/Sales-Analyzer)  
   🤖 Sales analysis and forecasting system. An application built in Python that analyzes sales data, stores results in an SQL database, and generates reports.
 
